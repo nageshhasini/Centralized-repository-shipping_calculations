@@ -10,5 +10,9 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
-# Here is a new update by nageshhasini
+# Here is a new update by nageshhasinigit checkout shipping_calculator_fixes
+git add .
+git commit -m "Fix issues in shipping calculator"
+git push origin shipping_calculator_fixes
+
 # Here is a new update by nageshhasini
